@@ -4,7 +4,7 @@ Computer Science Student
 Interested in Software Development and IoT
 
 Skills:
-Java | Python | C++ | HTML | IoT | Arduino | Android studio | React
+Java | Python | C++ | HTML | IoT | Arduino | Android studio | MERN Stack | Basic .Net
 
 Projects:
 •	Smart Energy Meter (IoT + Firebase)
